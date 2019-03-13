@@ -14,5 +14,5 @@ I found that lower loan amounts were the most common to be delinquent, as were l
 
 ## Key Insights for Presentation
 
-In the presentation I wanted to show that smaller loans are the most common on the site, and amounts tend to peak in intervals of 5,000.  I also showed that single investors were by far the most common, and that higher Prosper Scores are generally a good predictor of compliance, while middling scores are the most common for delinquency.  I also focused on how Prosper Score and number of investors together have an effect on compliance. Sure enough, as Prosper Score increases, so does the number of investors, since loan amounts go up.  The riskiest loans appear to loans with many investors and middling Prosper Scores. 
+In the presentation I wanted to show that smaller loans are the most common on the site, and amounts tend to peak in intervals of 5,000.  I also showed that single investors were by far the most common, and that higher Prosper Scores are generally a good predictor of compliance, while middling scores are the most common for delinquency.  I also focused on how Prosper Score and number of investors together have an effect on compliance. Sure enough, as Prosper Score increases, so does the number of investors, since loan amounts go up.  The riskiest loans appear to be loans with many investors and middling Prosper Scores. 
 
